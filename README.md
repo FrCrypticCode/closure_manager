@@ -1,5 +1,5 @@
 # closure_manager
 
-Gestionnaire de Closure
-=> Stockage dynamique de vos closures
-=> Eviter les accès concurrentiels
+Gestionnaire de Closure\n
+=> Stockage dynamique de vos closures\n
+=> Eviter les accès concurrentiels\n
