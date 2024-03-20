@@ -1,5 +1,5 @@
 # closure_manager
+Gestionnaire de Closure
+Pour assurer un stockage intelligent et éviter les accès concurrentiels.
 
-Gestionnaire de Closure\n
-=> Stockage dynamique de vos closures\n
-=> Eviter les accès concurrentiels\n
+Un utilitaire pour stocker ses ensembles de procédures à exécuter avant de les initier.
