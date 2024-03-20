@@ -1,0 +1,23 @@
+[package]
+name = "closure_manager"
+version = "0.1.0"
+edition = "2021"
+description = "Library to manage many closures and avoid concurrentials access"
+license = "Apache-2.0"
+
+authors = ["Cryptic <damien_501@hotmail.fr>"]
+
+[package.metadata.docs.rs]
+repository = "https://https://github.com/FrCrypticCode/neural_lib"
+
+[lib]
+name = "closure_manager"
+path = "lib.rs"
+
+[[test]]
+name = "tests"
+path = "tests.rs"
+
+[dependencies]
+
+
